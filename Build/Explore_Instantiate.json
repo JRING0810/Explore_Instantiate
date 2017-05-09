@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Explore_Instantiate.data.unityweb",
+"asmCodeUrl": "Explore_Instantiate.asm.code.unityweb",
+"asmMemoryUrl": "Explore_Instantiate.asm.memory.unityweb",
+"asmFrameworkUrl": "Explore_Instantiate.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
